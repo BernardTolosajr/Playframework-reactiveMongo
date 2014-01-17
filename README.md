@@ -1,0 +1,4 @@
+Playframework-reactiveMongo
+===========================
+
+Basic CRUD
